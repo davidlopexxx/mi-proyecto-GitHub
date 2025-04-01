@@ -2,3 +2,5 @@ Hola mundo
 Soy Angel Lopez 
 Tengo 34 años
 Estudio Programacion en la Univercidad Tecnologica Nacional
+Estoy realizando mi primer trabajo de github para la mateteria progracion 1
+ 
